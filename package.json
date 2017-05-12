@@ -4,7 +4,7 @@
   "description": "Filesystem utils for Node.JS & Trapezo",
   "main": "dt-filesystem.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "keywords": [
     "filesystem",
