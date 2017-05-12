@@ -1,7 +1,7 @@
 # dt-filesystem
 Filesystem utils for NodeJS &amp; Trapezo
 
-Useful to create all missing subfolders to a given path.
+Useful to create all missing subfolders to a given path. See test cases for usage.
 
 !!! Old ES5 code not yet ported to cleaner ES6+Promises.
 
