@@ -1,0 +1,24 @@
+{
+  "name": "dt-filesystem",
+  "version": "1.0.0",
+  "description": "Filesystem utils for Node.JS & Trapezo",
+  "main": "dt-filesystem.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "filesystem",
+    "nodejs",
+    "trapezo"
+  ],
+  "author": "Jérémie Mercier",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "rimraf": "^2.5.4",
+    "trapezo": "^1.1.0",
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
